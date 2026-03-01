@@ -64,7 +64,7 @@ select {
   border-radius: 5px;
   width: 150px;
   height: 36px;
-  background-repeat: rgba(255, 255, 255, 0);
+  background-repeat: no-repeat;
 
 }
 
@@ -129,7 +129,7 @@ select {
   border: 1px solid rgba(48, 48, 48, 0.3);
   width: 1440px;
   height: 0px;
-  margin-bottom: 60px 0;
+  margin: 60px 0;
 }
 
 table {
